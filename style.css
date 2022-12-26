@@ -1,0 +1,10 @@
+h1{
+    text-transform: capitalize;
+    text-decoration: line-through;
+}
+p{
+    color: aquamarine;
+}
+div{
+    text-decoration: solid;
+}
